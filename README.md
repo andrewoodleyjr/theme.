@@ -1,6 +1,5 @@
-# Woodley-Wordpress-Theme
+# Woodley Wordpress Theme
 Minimalistic Wordpress Theme
-
 Version: 1.0
 
 ### Installation
