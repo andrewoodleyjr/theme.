@@ -1,11 +1,11 @@
 # Woodley Wordpress Theme
 
-First Header  | Second Header
-------------- | -------------
-Minimalistic Wordpress Theme  | ![woodley theme](https://raw.githubusercontent.com/andrewoodleyjr/Woodley-Wordpress-Theme/master/screenshot-small.png)
-
+Minimalistic Wordpress Theme
 
 Version: 1.0
+
+![woodley theme](https://raw.githubusercontent.com/andrewoodleyjr/Woodley-Wordpress-Theme/master/screenshot-small.png)
+
 
 
 
