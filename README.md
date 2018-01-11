@@ -3,6 +3,8 @@ Minimalistic Wordpress Theme
 
 Version: 1.0
 
+![picture alt](https://github.com/andrewoodleyjr/Woodley-Wordpress-Theme/edit/master/screenshot.png "Woodley Wordpress Theme")
+
 ### Installation
 1. One of the following
    1. Upload the "Woodley" folder to the "/wp-content/themes/" directory
