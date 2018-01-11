@@ -3,7 +3,7 @@ Minimalistic Wordpress Theme
 
 Version: 1.0
 
-![picture alt](https://raw.githubusercontent.com/andrewoodleyjr/Woodley-Wordpress-Theme/master/screenshot.png =100x20)
+![picture alt](https://raw.githubusercontent.com/andrewoodleyjr/Woodley-Wordpress-Theme/master/screenshot.png | width=100)
 
 ### Installation
 1. One of the following
