@@ -1,9 +1,13 @@
 # Woodley Wordpress Theme
-Minimalistic Wordpress Theme
+
+First Header  | Second Header
+------------- | -------------
+Minimalistic Wordpress Theme  | ![woodley theme](https://raw.githubusercontent.com/andrewoodleyjr/Woodley-Wordpress-Theme/master/screenshot-small.png)
+
 
 Version: 1.0
 
-![woodley theme](https://raw.githubusercontent.com/andrewoodleyjr/Woodley-Wordpress-Theme/master/screenshot-small.png)
+
 
 ### Installation
 1. One of the following
