@@ -1,5 +1,6 @@
 # Woodley-Wordpress-Theme
-Minimalistic wordpress theme created by Andre Woodley Jr.
+Minimalistic Wordpress Theme
+
 Version: 1.0
 
 ### Installation
