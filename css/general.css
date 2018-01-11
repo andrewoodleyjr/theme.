@@ -1,0 +1,214 @@
+@charset "UTF-8";
+[ng\:cloak],
+[ng-cloak],
+[data-ng-cloak],
+[x-ng-cloak],
+.ng-cloak,
+.x-ng-cloak,
+.ng-hide {
+    display: none !important;
+}
+
+ng\:form {
+    display: block;
+}
+
+.ng-animate-block-transitions {
+    transition: 0s all!important;
+    -webkit-transition: 0s all!important;
+}
+
+.ng-hide-add-active,
+.ng-hide-remove {
+    display: block!important;
+}
+
+.currl-social-link {
+    color: #666666;
+}
+
+.currl-social-link:hover {
+    color: #CCCCCC;
+}
+
+@import url('http://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic');
+.currl-title {
+    font-family: Montserrat, sans-serif;
+}
+
+.currl-button {
+    font-family: Montserrat, sans-serif;
+}
+
+.currl-tagline {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.currl-bio {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.currl-title {
+    text-align: left;
+}
+
+.currl-text {
+    text-align: left;
+}
+
+.currl-tagline {
+    text-align: left;
+}
+
+.currl-bio {
+    text-align: left;
+}
+
+.currl-bio ul,
+.currl-bio ol {
+    list-style-position: outside;
+}
+
+.currl-text-wrap .currl-networks {
+    text-align: left;
+}
+
+.bummer-title {
+    font-family: Montserrat, sans-serif;
+}
+
+.bummer-content {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.impressum-title {
+    font-family: Montserrat, sans-serif;
+}
+
+.impressum-content {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.currl-main {
+    background-color: #fbfbfb;
+}
+
+.currl-image {
+    background-color: #151515;
+}
+
+.currl-title {
+    color: #151515;
+}
+
+.currl-tagline {
+    color: #AAAAAA;
+}
+
+.currl-bio {
+    color: #666666;
+}
+
+.currl-bio a {
+    color: #2a7398;
+}
+
+.currl-bio a:hover {
+    color: #f4de8a;
+}
+
+.currl-bio blockquote {
+    color: #AAAAAA;
+}
+
+.currl-bio blockquote {
+    border-color: #AAAAAA;
+}
+
+.currl-button {
+    border-color: #f4de8a;
+}
+
+.currl-button {
+    background: #151515;
+}
+
+.currl-button::before {
+    background: #f4de8a;
+}
+
+.currl-button-text {
+    color: #f4de8a;
+}
+
+.currl-button:hover {
+    border-color: #f4de8a;
+}
+
+.currl-button:hover .currl-button-text {
+    color: #151515;
+}
+
+.currl-social-link {
+    color: #666666;
+}
+
+.currl-social-link:hover {
+    color: #999999;
+}
+
+.currl-image::after {}
+
+.currl-image::after {
+    background-color: rgba(0, 0, 0, 0.75)
+}
+
+.currl-social {
+    font-size: 1.6rem;
+}
+
+.currl-image {
+    background-image: url(../img/img2.jpg);
+}
+
+.complete {
+    display: none;
+}
+
+.more {
+    background: lightblue;
+    color: navy;
+    font-size: 13px;
+    padding: 3px;
+    cursor: pointer;
+}
+
+#intro {
+    max-height: 3.3em;
+    /* (4 * 1.5 = 6) */
+    text-align: left;
+}
+
+@media only screen and (max-width: 700px) {
+    /* Your touch-specific css goes here */
+    #intro+[data-readmore-toggle] {
+        text-align: center;
+    }
+}
+
+#hellobar-bar .hb-logo-wrapper {
+    opacity: 0;
+}
+
+.entry-title {
+    font-size: 25px;
+    color: black;
+    font-weight: 500;
+    margin: 10px 0;
+}
+
+
+.current_page_item > a{
+    color: #183339 !important;
+}
