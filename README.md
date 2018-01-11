@@ -1,6 +1,7 @@
 # Woodley Wordpress Theme
 Minimalistic Wordpress Theme
- Version: 1.0
+
+Version: 1.0
 
 ### Installation
 1. Upload the "Woodley" folder to the "/wp-content/themes/" directory
